@@ -8,7 +8,9 @@ v1.0.1
 
 Summary
 ---
-A jQuery plugin for easy consumption of RESTful APIs
+A jQuery plugin for easy consumption of RESTful APIs.
+
+Re uploaded due to issues with Bower not finding the package
 
 Downloads
 ---

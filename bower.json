@@ -1,8 +1,8 @@
 {
-  "name": "jpillora/jquery.rest",
+  "name": "charl4e/jquery.rest",
   "version": "1.0.2",
   "main": "dist/1/jquery.rest.js",
-  "description": "A jQuery plugin for easy consumption of REST APIs",
+  "description": "A jQuery plugin for easy consumption of REST APIs. Reuploaded to work with Bower",
   "license": "MIT",
   "ignore": [
     "*",
